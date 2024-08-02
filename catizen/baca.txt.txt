@@ -1,0 +1,13 @@
+npm install puppeteer
+sudo apt-get install libgbm-dev
+sudo apt-get install libasound2
+
+1. wajib pake chrome untuk ambil iframe
+2. iframe ambil dari inspect > elements > cari iframe
+
+https://tgsvr.catizen.ai/api/bot/tmas/gameapp/catizenbot#tgWebAppData=query_id***7D
+
+masukkan ke iframe.txt
+
+
+jangan ditabrak, kalau mau cek tabrak aja terus run ulang
